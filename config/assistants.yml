@@ -1,0 +1,7 @@
+default_assistant:
+  instructions: You are a helpful assistant.
+  description: default assistant
+
+programming_assistant:
+  instructions: You are a programming assistant.
+  description: programming assistant

@@ -1,0 +1,7 @@
+line-bot-sdk
+fastapi
+uvicorn[standard]
+motor
+openai
+PyYAML
+pydantic-settings
