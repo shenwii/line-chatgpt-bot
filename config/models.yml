@@ -3,8 +3,7 @@ gpt-4.1-nano:
   speed: ●●●●●
   type: chat
   model: gpt-4.1-nano
-  input:
-    image: true
+  vision: true
   pricing:
     input: $0.10 / 1M tokens
     output: $0.40 / 1M tokens
@@ -15,8 +14,7 @@ gpt-4o-mini:
   speed: ●●●●
   type: chat
   model: gpt-4o-mini
-  input:
-    image: true
+  vision: true
   pricing:
     input: $0.15 / 1M tokens
     output: $0.60 / 1M tokens
